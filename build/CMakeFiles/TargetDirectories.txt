@@ -1,0 +1,3 @@
+/home/eric/rectangleBot/build/CMakeFiles/rebuild_cache.dir
+/home/eric/rectangleBot/build/CMakeFiles/edit_cache.dir
+/home/eric/rectangleBot/build/CMakeFiles/mainbot.dir
